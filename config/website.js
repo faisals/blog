@@ -18,7 +18,7 @@ module.exports = {
 
   twitter: '@safarnamay', // Twitter Username
   facebook: 'faisals', // Facebook Site Name
-  googleAnalyticsID: 'UA-1231231212-7',
+  googleAnalyticsID: 'UA-134508503-1',
 
   skipNavId: 'reach-skip-nav', // ID for the "Skip to content" a11y feature
 }
