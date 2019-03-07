@@ -1,3 +1,4 @@
-My journey as a developer has revolved around understanding the ever-changing data landscape. I was interested in trends and got a statistics degree to solidify my knowledge. As I started my professional career, I found that learning about optimizing databases would be immensely important. This led me to helping other developers with SQL standards and writing highly performant SQL code. It was important to have a reporting architecture to understand data integrity issues. In the process I have learned about managing infrastructure at scale, automation, deployments, leveraging machine learning modeling and writing data pipelines. My data journey continues.
+Hey, I’m Faisal. 
+I’m a San Francisco-based data technologist. I work in all areas of the data science stack. 
 
-
+I have previously worked in data infrastructure and sysadmin roles. 
