@@ -1,10 +1,10 @@
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
-  title: 'Faisal Sajjad - abc', // Navigation and Site Title
-  titleAlt: 'Faisal Sajjad - abc', // Title for JSONLD
-  description: 'A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.',
-  headline: 'Writing and publishing content for LekoArts', // Headline for schema.org JSONLD
-  url: 'https://prismic.lekoarts.de', // Domain of your site. No trailing slash!
+  title: 'Faisal Sajjad - Data Technologist based in San Francisco', // Navigation and Site Title
+  titleAlt: 'Faisal Sajjad - Data Technologist based in San Francisco', // Title for JSONLD
+  description: 'A blog about my journey working with various technologies.',
+  headline: 'Writing and publishing content for www.faisals.net', // Headline for schema.org JSONLD
+  url: 'https://www.faisals.net', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   logo: '/logos/logo-1024.png', // Used for SEO
   ogLanguage: 'en_US', // Facebook Language
